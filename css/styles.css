@@ -52,4 +52,5 @@ a {
 .basicLightbox__placeholder img {
     width: 1122px !important;
     height: 640px !important;
+    object-fit: cover !important;
 }
